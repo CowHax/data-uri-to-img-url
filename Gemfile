@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.3.3'                              # Ruby language
+ruby '2.6.6'                              # Ruby language
 
 gem 'rails', '~> 5'
 gem 'thin', '~> 1'                        # Web Server process
